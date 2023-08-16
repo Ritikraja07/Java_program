@@ -31,7 +31,7 @@ public class switchassignment {
                 break;
 
             case '*':
-            // Multiplicataion
+            // Multiplicataion.
                 ans=num1 * num2;
                 System.out.println(num1 + "*" + num2 + " = " + ans);
                 break;
