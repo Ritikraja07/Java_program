@@ -19,7 +19,7 @@ public class switchassignment {
         System.out.print("Enter second number: ");
         num2=sc.nextInt();
 
-        // using switch
+        // using switch operator
         switch (op) {
             case '+':
             // Addition
