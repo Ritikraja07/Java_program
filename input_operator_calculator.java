@@ -6,6 +6,7 @@ public class switchassignment {
     public static void main(String[] args) {
         char op;
         double num1, num2, ans;
+        // using scanner class
         Scanner sc = new Scanner(System.in);
 
         System.out.print("Enter an operator('+' '-' '*' '/'): ");
