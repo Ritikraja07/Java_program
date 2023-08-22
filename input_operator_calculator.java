@@ -25,6 +25,7 @@ public class switchassignment {
             case '+':
             // Addition
                 ans=num1 + num2;
+                // Print the answer
                 System.out.println(num1 + " + " + num2 + " = " + ans);
                 break;
             
