@@ -51,6 +51,7 @@ public class switchassignment {
                 break;
 
             default:
+                // Print the default value
                 System.out.println("Wrong input");
         }
         sc.close();
