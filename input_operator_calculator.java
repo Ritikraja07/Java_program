@@ -12,7 +12,7 @@ public class switchassignment {
         System.out.print("Enter an operator('+' '-' '*' '/'): ");
         op=sc.next().charAt(0);
 
-        //Enter first number
+        //Enter first number.
         System.out.print("Enter first number: ");
         num1=sc.nextInt();
 
