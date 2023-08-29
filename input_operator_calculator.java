@@ -16,7 +16,7 @@ public class switchassignment {
         System.out.print("Enter first number: ");
         num1=sc.nextInt();
 
-        // Enter second number
+        // Enter second number.
         System.out.print("Enter second number: ");
         num2=sc.nextInt();
 
