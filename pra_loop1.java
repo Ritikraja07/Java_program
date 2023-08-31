@@ -9,7 +9,7 @@ public class pra_loop1 {
         Scanner sc = new Scanner(System.in);
         // Taking an integer value
         int n = sc.nextInt();
-
+        // taking an integer value
         int ans = 0;
         
         while(n>0){
