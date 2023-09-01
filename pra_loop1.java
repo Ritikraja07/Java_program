@@ -13,6 +13,7 @@ public class pra_loop1 {
         int ans = 0;
         
         while(n>0){
+            // calculating the answer
             ans = ans*10 + n % 10;
             n /= 10;
         }
