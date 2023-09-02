@@ -15,6 +15,7 @@ public class pra_loop1 {
         while(n>0){
             // calculating the answer
             ans = ans*10 + n % 10;
+            // the value of n
             n /= 10;
         }
         System.out.println("Reverse : " +ans );
