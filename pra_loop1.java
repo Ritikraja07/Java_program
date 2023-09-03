@@ -18,6 +18,7 @@ public class pra_loop1 {
             // the value of n
             n /= 10;
         }
+        // Print the answer
         System.out.println("Reverse : " +ans );
         sc.close();
         
