@@ -11,7 +11,7 @@ public class pra_loop1 {
         int n = sc.nextInt();
         // taking an integer value
         int ans = 0;
-        
+        // using while loop
         while(n>0){
             // calculating the answer
             ans = ans*10 + n % 10;
