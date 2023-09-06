@@ -8,7 +8,6 @@ public class pra_loop1 {
         // using scanner class
         Scanner sc = new Scanner(System.in);
         // Taking an integer value
-        // using n as variable
         int n = sc.nextInt();
         // taking an integer value
         int ans = 0;
