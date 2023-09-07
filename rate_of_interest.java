@@ -14,6 +14,7 @@ public class rate_of_interest {
 
         // Enter rate of interest
         System.out.println("Enter rate of interest: ");
+        // using float value
         float rate = sc.nextFloat();
 
         // total time
