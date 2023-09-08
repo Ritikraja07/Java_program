@@ -21,6 +21,7 @@ public class rate_of_interest {
         System.out.println("Enter time: ");
         int time = sc.nextInt();
 
+        // Calculating the value
          // to calculate the rate of interest
         // Rate of interst= (p*r*t)/10
         float interest = (principle*rate*time)/100;
