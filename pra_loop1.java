@@ -21,6 +21,7 @@ public class pra_loop1 {
         }
         // Print the answer
         System.out.println("Reverse : " +ans );
+        // close the scanner
         sc.close();
         
     }
