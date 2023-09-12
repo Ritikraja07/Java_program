@@ -9,6 +9,7 @@ public class rate_of_interest {
         // Calculating rate of interest
 
         // Enter the principle
+        // using println for nextLine.
         System.out.println("Enter principle: ");   
         // Taking float value
         float principle = sc.nextFloat();
