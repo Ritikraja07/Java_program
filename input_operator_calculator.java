@@ -14,6 +14,7 @@ public class switchassignment {
 
         //Enter first number.
         System.out.print("Enter first number: ");
+        // using num1 to take input
         num1=sc.nextInt();
 
         // Enter second number.
